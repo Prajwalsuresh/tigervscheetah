@@ -5,5 +5,4 @@ numpy
 matplotlib
 streamlit
 requests
-io
 pillow
