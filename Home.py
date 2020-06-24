@@ -84,4 +84,4 @@ if options == 'Upload an image':
 		predict(img)
 
 
-#Temporarily displays a message while executing a block of code.
+
